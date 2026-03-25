@@ -70,8 +70,5 @@ The dataset includes borrower demographics, financial indicators, and loan-relat
 ---
 
 ## 👤 Author
-Hiep Dylan
-LinkedIn: https://www.linkedin.com/in/hiepledai-dylan/
-
-[Your Name]
-[Your LinkedIn URL]
+* Hiep Dylan
+* LinkedIn: https://www.linkedin.com/in/hiepledai-dylan/
