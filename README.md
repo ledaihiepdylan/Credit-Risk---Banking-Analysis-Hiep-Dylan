@@ -55,6 +55,31 @@ The dataset includes borrower demographics, financial indicators, and loan-relat
 * Certain segments combine high risk with high loan exposure, indicating potential portfolio vulnerabilities
 
 ---
+#📊 Dashboard Pages
+##🎯 1. Credit Risk Overview
+### Overall Risk
+![image_alt](https://github.com/ledaihiepdylan/Credit-Risk---Banking-Analysis-Hiep-Dylan/blob/68843a9d8952c4cf1a058bbe176ced7f7855d822/Source/Overview.jpg)
+
+The dataset includes 32,581 borrowers, with a total loan exposure of approximately $312M. Among them, 7,108 borrowers (21.82%) have defaulted, indicating a relatively high overall default rate.
+
+### Gender Distribution
+* Male: ~50.25%
+* Female: ~49.75%
+
+Demographic factors such as gender, employment type are relatively evenly distributed across the dataset. Additionally, there are no significant differences in default rates among these groups.
+
+### Loan Grade
+
+*Lower grades (D–G) represent extreme default risk
+*However, Grades A–C still account for a large portion of total loan volume
+
+###
+* Highest default rate: 60+ group
+* Lower but still notable: younger groups
+
+---
+##
+
 
 ## 🛠 Tools & Technologies
 
