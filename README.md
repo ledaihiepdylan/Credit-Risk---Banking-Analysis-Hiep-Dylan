@@ -1,6 +1,10 @@
 # 📊 Credit Risk Analysis Dashboard
 Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZDMwOTA0MWQtMGUxNS00ZGJkLTg1MTUtYzRmMjE0YjI3MDE3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
+## 👤 Author
+* Hiep Dylan
+* LinkedIn: https://www.linkedin.com/in/hiepledai-dylan/
+
 ## 📌 Overview
 
 This project focuses on analyzing credit risk in a banking dataset to understand borrower behavior, loan distribution, and key factors driving loan default.
@@ -151,11 +155,4 @@ At the city level, Vancouver (Canada) has the highest default rate among all loc
 
 ---
 
-## 🔗 Live Dashboard
 
-
----
-
-## 👤 Author
-* Hiep Dylan
-* LinkedIn: https://www.linkedin.com/in/hiepledai-dylan/
