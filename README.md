@@ -5,6 +5,8 @@ Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZDMwOTA0MWQtM
 * Hiep Dylan
 * LinkedIn: https://www.linkedin.com/in/hiepledai-dylan/
 
+Example: Individuals with less than one year of work experience have the highest default rate (27.94%). When clicking on the “<1 year” column in the chart, we can further drill down into the data as follows. Within this group (<1 YOE), at the time of the loan, unemployed individuals have the highest default rate (27.94%). They typically borrow for medical expenses or debt consolidation. If we only analyze Job Type in isolation, we would not uncover this insight! (Dashboard page 1)
+
 ## 📌 Overview
 
 This project focuses on analyzing credit risk in a banking dataset to understand borrower behavior, loan distribution, and key factors driving loan default.
